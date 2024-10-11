@@ -13,7 +13,7 @@ const NavBar = () => {
           <Link to={"/"}>
             <img
               className="h-[35px] w-[100px] m-2"
-              src={"../images/amazon.png"}
+              src={"../images/flipkart.png.png"}
               alt="Amazon logo"
             />
           </Link>
